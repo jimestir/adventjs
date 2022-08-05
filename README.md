@@ -1,6 +1,6 @@
 # 🎄 [Adventjs](https://adventjs.dev/)
 
-Es un conjunto de retos de JavaScript realiazados por [midude](https://midu.dev/) creador de contenido de programacion.
+Es un conjunto de retos de JavaScript realiazados por [midude](https://midu.dev/) (creador de contenido de programacion).
 
 | Day |                                                  Code                                                   | Done |
 | :-: | :-----------------------------------------------------------------------------------------------------: | :--: |
